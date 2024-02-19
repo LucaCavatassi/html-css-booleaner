@@ -1,11 +1,32 @@
 header{
-    height: 100px;
+    height: 80px;
     background-color: rgb(83, 172, 227);
     background-image: url(../img/pattern.png);
     background-size: contain;
+    position: relative;
 }
 .header_logo{
-    height: 40px;
-    margin-top: 60px;
-    margin-left: 10px;
+    height: 30px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.title{
+    margin-bottom: 0;
+    font-size: 35px;
+}
+
+.author{
+    margin: 0;
+    font-size: 15px;
+    color: gray;
+}
+
+.name{
+    color: rgb(83, 172, 227);
+}
+
+.date{
+    font-size: 10px;
+    margin-bottom: 20px;
 }
