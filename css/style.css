@@ -30,3 +30,16 @@ header{
     font-size: 10px;
     margin-bottom: 20px;
 }
+
+.phcredits p{
+    margin: 0;
+    font-size: 10px;
+}
+
+.phcredits{
+    margin-bottom: 20px;
+}
+
+.yellow_highlight{
+    background-color: yellow;
+}
