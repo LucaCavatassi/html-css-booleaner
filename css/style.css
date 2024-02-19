@@ -43,3 +43,26 @@ header{
 .yellow_highlight{
     background-color: yellow;
 }
+
+table{
+    border-collapse: collapse;  border-spacing: 0;
+    width: 100%;
+    text-align: left;
+}
+.tablehead{
+    background-color: rgb(51, 144, 201);
+    color: white;
+}
+
+
+.tablebody{
+    background-color: lightskyblue;
+    line-height: 30px;
+}
+.half_table{
+    width: 50%;
+}
+
+.white{
+    background-color: white;
+}
